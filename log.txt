@@ -1,3 +1,4 @@
+ba23fd6 Task 2.1: Update your log.txt and do the refactoring
 06249ec Task 1.2: Commit the changes to log.txt
 fa6a7f3 Task 1.1: fix all CheckStyle issues that are detected
 7cb3412 Initial commit
